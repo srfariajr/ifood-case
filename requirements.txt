@@ -1,0 +1,8 @@
+os
+pyspark>=3.4.0
+delta-spark>=3.0.0
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
