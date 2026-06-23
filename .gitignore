@@ -42,10 +42,10 @@ metastore_db/
 derby.log
 
 # Dados grandes (não subir para o Git)
-data/raw/*.json
-data/processed/
-*.parquet
-*.delta
+#data/raw/*.json
+#data/processed/
+#*.parquet
+#*.delta
 
 # Apresentação (se quiser versionar, pode deixar)
 # presentation/
